@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m Olasunkanmi, a Full Stack Software Engineer, a results-driven Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives.
+I’m Olasunkanmi, a Full Stack Software Engineer, and a results-driven Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives.
