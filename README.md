@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/armis-group-transparent-0lfqHNZwWM1hOvJ9CX" width="100"/>
+  <img src="https://giphy.com/stickers/armis-group-transparent-0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
 </div>
 
 ### Hi there 👋
